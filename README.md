@@ -22,18 +22,6 @@ JDK1.7、Maven、Mysql、Eclipse、SpringBoot1.5.10、zookeeper3.4.6、kafka_2.1
 
 http://localhost:8080/seckill/swagger-ui.html
 
-![API](https://images.gitee.com/uploads/images/2018/0822/182938_cd8b14a3_87650.png "API.png")
-
-## 项目截图
-
-
-
-
-## 友情提示
-
-由于工作原因，项目正在完善中（仅供参考），随时更新日志，有疑问请留言或者加群
-
-
 #### 项目介绍
 
 SpringBoot开发案例从0到1构建分布式秒杀系统，项目案例基本成型，逐步完善中。
